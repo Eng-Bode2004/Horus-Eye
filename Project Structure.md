@@ -52,3 +52,4 @@ horus_eye/
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project description
 └── main.py                    # Optional entry point
+
