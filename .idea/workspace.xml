@@ -5,39 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e796dc7-4ace-40f0-a0d6-5786bf91a2d3" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/Deployment/Cotest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Conntest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/EEG-Transformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/EEG.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/SSVEP.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreProcessing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/1_load_visualize_raw_eeg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/3_Re-referencing_EEG_Signals.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/4_Bandpass_Filtering_EEG_Signals.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/Channel_Selection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing/SSVEP/SSVEP.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training/Mapping Epochs to Labels.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ Data/metadata.json" beforePathEscaped="$PROJECT_DIR$/📁 Data/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/metadata.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eng-Bode2004&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Eng-Bode2004/Horus-Eye.git&quot;,
+    &quot;accountId&quot;: &quot;f55d78e4-74cc-4b94-88d9-29d6789bd5a0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2y9ZWAH7l47oHk5AGtnfa5QtfBp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EEG-Transformer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SSVEP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zezom\PycharmProjects\HorusEye\Data" />
+      <recent name="C:\Users\zezom\PycharmProjects\HorusEye" />
+      <recent name="C:\Users\zezom\PycharmProjects\HorusEye\Training" />
+      <recent name="C:\Users\zezom\PycharmProjects\HorusEye\📁 Data\Raw" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +104,16 @@
       <option name="presentableId" value="Default" />
       <updated>1749248778808</updated>
       <workItem from="1749248779895" duration="1672000" />
+      <workItem from="1749251508775" duration="1525000" />
+      <workItem from="1749259326065" duration="5135000" />
+      <workItem from="1749300527963" duration="224000" />
+      <workItem from="1749300813356" duration="1775000" />
+      <workItem from="1749302619660" duration="5623000" />
+      <workItem from="1749308423928" duration="3758000" />
+      <workItem from="1749312238399" duration="3699000" />
+      <workItem from="1749316079082" duration="2160000" />
+      <workItem from="1749318265178" duration="4791000" />
+      <workItem from="1749323117099" duration="2839000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -80,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749251416931</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1749251558374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749251558374</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1749251697557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749251697557</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +164,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HorusEye$SSVEP.coverage" NAME="SSVEP Coverage Results" MODIFIED="1749318890968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/HorusEye$EEG_Transformer.coverage" NAME="EEG-Transformer Coverage Results" MODIFIED="1749315285311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/HorusEye$model.coverage" NAME="model Coverage Results" MODIFIED="1749316112325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
   </component>
 </project>
