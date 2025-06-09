@@ -5,24 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e796dc7-4ace-40f0-a0d6-5786bf91a2d3" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/Deployment/Cotest.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Conntest.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/EEG-Transformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/EEG.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/SSVEP.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PreProcessing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/1_load_visualize_raw_eeg.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/3_Re-referencing_EEG_Signals.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/4_Bandpass_Filtering_EEG_Signals.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/Channel_Selection.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preprocessing/SSVEP/SSVEP.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/Mapping Epochs to Labels.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evaluation/Validate Mi.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evaluation/Validate SSVEP.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deployment/Cotest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deployment/Cotest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Conntest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Conntest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/EEG.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Models/EEG.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/SSVEP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Models/SSVEP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Preprocessing/Motor Imagery/4_Bandpass_Filtering_EEG_Signals.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Preprocessing/Motor Imagery/4_Bandpass_Filtering_EEG_Signals.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Preprocessing/SSVEP/SSVEP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Preprocessing/SSVEP/SSVEP.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ Data/metadata.json" beforePathEscaped="$PROJECT_DIR$/📁 Data/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/metadata.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +58,12 @@
     &quot;Python.EEG-Transformer.executor&quot;: &quot;Run&quot;,
     &quot;Python.SSVEP.executor&quot;: &quot;Run&quot;,
     &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_mi_svm.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zezom/Downloads/Compressed/EEG-Explanation-model-master/EEG-Explanation-model-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -113,7 +107,17 @@
       <workItem from="1749312238399" duration="3699000" />
       <workItem from="1749316079082" duration="2160000" />
       <workItem from="1749318265178" duration="4791000" />
-      <workItem from="1749323117099" duration="2839000" />
+      <workItem from="1749323117099" duration="4476000" />
+      <workItem from="1749327772741" duration="15837000" />
+      <workItem from="1749373533253" duration="1415000" />
+      <workItem from="1749375064649" duration="507000" />
+      <workItem from="1749375945080" duration="69000" />
+      <workItem from="1749376500044" duration="375000" />
+      <workItem from="1749376895119" duration="353000" />
+      <workItem from="1749377265869" duration="220000" />
+      <workItem from="1749377526958" duration="11485000" />
+      <workItem from="1749392921519" duration="21762000" />
+      <workItem from="1749415733420" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -155,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749251697557</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1749326176546</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749326176546</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +180,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HorusEye$SSVEP.coverage" NAME="SSVEP Coverage Results" MODIFIED="1749318890968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/HorusEye$EEG_Transformer.coverage" NAME="EEG-Transformer Coverage Results" MODIFIED="1749315285311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/HorusEye$train_mi_svm.coverage" NAME="train_mi_svm Coverage Results" MODIFIED="1749338984585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Training" />
     <SUITE FILE_PATH="coverage/HorusEye$model.coverage" NAME="model Coverage Results" MODIFIED="1749316112325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
   </component>
 </project>
