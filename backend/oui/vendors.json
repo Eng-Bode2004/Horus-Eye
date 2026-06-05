@@ -1,0 +1,4427 @@
+{
+  "60:60:1F": {
+    "vendor": "SZ DJI Technology",
+    "type": "drone",
+    "family": "dji"
+  },
+  "34:D2:62": {
+    "vendor": "SZ DJI Technology",
+    "type": "drone",
+    "family": "dji"
+  },
+  "00:06:37": {
+    "vendor": "SZ DJI Technology",
+    "type": "drone",
+    "family": "dji"
+  },
+  "00:06:1A": {
+    "vendor": "Walkera Technology",
+    "type": "drone",
+    "family": "walkera"
+  },
+  "00:26:7E": {
+    "vendor": "SZ DJI Technology",
+    "type": "drone",
+    "family": "dji"
+  },
+  "04:A0:2B": {
+    "vendor": "SZ DJI Technology",
+    "type": "drone",
+    "family": "dji"
+  },
+  "00:16:66": {
+    "vendor": "SZ DJI Technology",
+    "type": "drone",
+    "family": "dji"
+  },
+  "A0:14:3D": {
+    "vendor": "Autel Robotics (DJI-era)",
+    "type": "drone",
+    "family": "dji"
+  },
+  "90:03:B7": {
+    "vendor": "Parrot SA",
+    "type": "drone",
+    "family": "parrot"
+  },
+  "F8:1D:78": {
+    "vendor": "Huawei Technologies (also Autel)",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "00:12:1C": {
+    "vendor": "Syma Toys",
+    "type": "drone",
+    "family": "syma"
+  },
+  "48:1C:B9": {
+    "vendor": "Parrot SA",
+    "type": "drone",
+    "family": "parrot"
+  },
+  "38:1D:14": {
+    "vendor": "Skydio Inc.",
+    "type": "drone",
+    "family": "skydio"
+  },
+  "00:24:9B": {
+    "vendor": "3D Robotics",
+    "type": "drone",
+    "family": "3dr"
+  },
+  "00:0A:3A": {
+    "vendor": "Yuneec International",
+    "type": "drone",
+    "family": "yuneec"
+  },
+  "00:0B:0C": {
+    "vendor": "Horizon Hobby / Blade",
+    "type": "drone",
+    "family": "blade"
+  },
+  "34:A8:45": {
+    "vendor": "Hubsan Co.",
+    "type": "drone",
+    "family": "hubsan"
+  },
+  "00:26:F7": {
+    "vendor": "Racestar Technology",
+    "type": "drone",
+    "family": "racestar"
+  },
+  "00:1B:14": {
+    "vendor": "Parrot SA (legacy)",
+    "type": "drone",
+    "family": "parrot"
+  },
+  "00:1D:C5": {
+    "vendor": "DroneX Pro",
+    "type": "drone",
+    "family": "drone_x"
+  },
+  "A4:83:E7": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A4:B1:21": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:03:93": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:05:02": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:0A:27": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:0A:95": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:0D:93": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:17:F2": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:1B:63": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:1C:B3": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:1E:C2": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:1F:F3": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:21:E9": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:22:41": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:23:6C": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:23:DF": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:25:00": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:25:4B": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:26:08": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:26:B0": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:27:13": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:27:14": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "38:C9:86": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "44:45:27": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "4C:32:75": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "4C:57:CA": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "54:26:96": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "54:E4:3A": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "58:1F:AA": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "5C:59:48": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "60:8C:2B": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "64:76:BA": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "6C:94:F8": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "70:11:24": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "70:56:81": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "74:C2:C5": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "78:31:C1": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "78:45:04": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "78:9F:70": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "7C:61:93": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "7C:6D:37": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "80:49:71": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "80:7D:3A": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "84:29:9D": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "84:38:35": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "84:85:0D": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "84:B1:53": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "88:1F:A1": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "88:53:95": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "88:66:5A": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "90:27:E4": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "94:97:DF": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "98:03:1D": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "9C:29:3F": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "9C:5C:8E": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A0:18:06": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A0:88:68": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A0:AF:85": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A4:15:6D": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A4:D1:8C": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A8:51:FB": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "A8:87:06": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "AC:29:3A": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "AC:BC:32": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "AC:CF:5C": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "B0:34:9D": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "B0:65:1D": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "B4:18:D1": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "B4:F0:AB": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "BC:52:67": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "BC:67:78": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "C0:25:06": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "C0:84:7A": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "C4:2C:03": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "CC:25:EF": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "D0:23:DB": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "D4:6B:A6": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "D4:9A:6C": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "D8:1D:72": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "D8:CF:9C": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "DC:2B:2A": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "E0:52:1C": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "E0:66:B5": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "E4:31:8F": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "E4:87:C5": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "E8:39:DF": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "EC:35:86": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F0:18:98": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "F0:B4:D0": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "F0:DB:E2": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "F4:18:90": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "F4:31:C3": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "F4:52:14": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F8:1E:DF": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "F8:27:93": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "F8:4F:25": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "FC:25:3F": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "00:12:47": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "00:1A:7A": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "00:22:57": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "00:24:9E": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "00:26:3B": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "00:72:69": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "04:42:1A": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "0C:5B:8F": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "10:13:31": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "10:5F:06": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "14:13:33": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "20:70:7F": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "24:07:44": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "24:5A:4C": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "34:8A:AE": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "44:65:0D": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "44:D9:E7": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "54:3E:5F": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "54:53:ED": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "60:33:4B": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "64:6E:6C": {
+    "vendor": "Xiaomi Communications",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "68:07:15": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "6C:3F:E9": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "70:81:EB": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "74:7E:3C": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "78:BD:BC": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "84:31:53": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "84:4E:35": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "84:71:A8": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "84:FD:AC": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "8C:73:B0": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "8C:EC:4D": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "94:0E:C1": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "94:71:AC": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "98:01:A7": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "98:DE:D0": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "A0:59:50": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "A0:A0:C2": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "A4:4C:C8": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "A4:61:EA": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "A4:93:4B": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "AC:35:00": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "B0:19:2D": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "B0:88:8E": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "C4:42:02": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "C8:07:5D": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "CC:1A:FA": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "D0:25:98": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "DC:52:85": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "E4:2F:7B": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "E4:70:B9": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "E8:93:09": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "E8:B2:AC": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "EC:07:5F": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "00:18:82": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "00:1D:09": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "00:1E:10": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "00:25:9C": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "08:19:A6": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "0C:5B:9F": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "0C:96:BF": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "10:1B:54": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "10:83:03": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "10:C6:1F": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "14:DB:85": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "24:09:95": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "24:19:1D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "24:49:5E": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "24:69:51": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "24:9E:93": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "28:31:52": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "28:56:5A": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "34:17:59": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "34:61:04": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "34:CD:6D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "38:3D:5D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "3C:5A:B4": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "3C:C7:79": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "40:49:57": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "44:05:2F": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "44:61:ED": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "44:8B:FC": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "48:02:2A": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "48:4D:7E": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "4C:1A:BF": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "4C:5B:CC": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "4C:79:75": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "4C:8B:E9": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "50:1A:CA": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "50:33:6B": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "58:2C:80": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "5C:40:5E": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "5C:51:4F": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "5C:61:99": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "60:10:B3": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "60:8B:FE": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "64:16:66": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "64:66:B3": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "68:0D:43": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "6C:16:44": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "6C:3B:E5": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "6C:5E:7F": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "6C:93:DB": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "70:7B:E8": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "74:45:04": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "78:0E:3D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "78:1D:69": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "78:73:94": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "7C:61:43": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "7C:B2:3D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "80:0B:6A": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "80:EA:96": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "80:FB:06": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "84:07:88": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "84:34:97": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "84:4B:F5": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "84:54:77": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "84:A9:3E": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "84:E6:93": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "88:25:2C": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "88:25:93": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "88:36:5A": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "88:4A:EA": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "8C:6B:4D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "8C:70:5A": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "90:9D:C5": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "94:EF:D4": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "98:2C:AC": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "98:45:ED": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "9C:2E:BF": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "9C:51:31": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "A0:88:6F": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "A4:08:EA": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "A4:17:FE": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "A4:2F:68": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "A4:4D:4E": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "A4:93:3B": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "AC:4E:2C": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "B4:04:2D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "B4:52:7D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "B4:94:4B": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:1B:59": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:3B:AF": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:61:1D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:81:A2": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:83:FB": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:C5:AC": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:E3:3F": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "BC:EE:7B": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "C0:16:34": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C0:25:09": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C0:5A:FB": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C4:04:12": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C4:46:91": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C4:6E:1F": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "C4:71:54": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C4:84:88": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C8:22:69": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C8:33:56": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "C8:47:89": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "CC:08:E0": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "CC:96:A0": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E0:24:7F": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E0:28:0D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E0:DC:FF": {
+    "vendor": "Huawei / Android",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E4:03:18": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E4:2B:34": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E4:61:FD": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E4:63:E9": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E4:98:D6": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E8:08:8B": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E8:28:D1": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "E8:68:E7": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "EC:23:3D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:42:59": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:4D:7D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:75:3E": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:89:55": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:8E:D5": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:9A:74": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:C8:6B": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "EC:CB:BE": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F4:0B:20": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F4:16:6D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F4:28:02": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F4:47:02": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F8:3D:8D": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "F8:9D:52": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "FC:4F:5C": {
+    "vendor": "Huawei Technologies",
+    "type": "phone",
+    "family": "huawei"
+  },
+  "00:0E:2E": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "00:37:13": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "00:3E:EB": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "08:00:27": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "0C:82:61": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "14:CC:20": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "18:F4:6A": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "1C:4F:68": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "24:0A:C4": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "28:10:7B": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "28:31:92": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "2C:43:2D": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "30:AE:A4": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "34:CE:00": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "38:56:1D": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "40:31:3C": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "48:0D:6F": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "50:3E:AA": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "54:40:9B": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "54:D4:FC": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "58:5D:4C": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "60:38:E0": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "6C:B3:11": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "70:8A:2D": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "74:9E:AF": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "78:11:DC": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "78:62:5D": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "80:37:73": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "84:0D:8E": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "84:1B:5E": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "84:71:8A": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "88:0F:10": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "8C:21:0A": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "94:4A:09": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "94:D0:30": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "A4:04:61": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "A4:32:C3": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "A4:77:01": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "AC:09:3B": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "BC:46:56": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "DC:37:14": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "E4:20:BE": {
+    "vendor": "Xiaomi",
+    "type": "iot",
+    "family": "xiaomi"
+  },
+  "18:FE:34": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "1A:FE:34": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "24:6F:28": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "3C:4F:46": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "3C:D1:7D": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "4C:33:22": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "4C:5E:0C": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "5C:CF:7F": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "60:01:94": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "60:51:4E": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "64:10:7F": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "64:A0:E6": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "64:E8:CE": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "70:04:1C": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "70:46:F5": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "74:90:06": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "74:DA:38": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "7C:49:14": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "7C:4E:23": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "7C:DF:2F": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "84:CC:A8": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "8C:AA:B5": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "94:8B:C0": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "98:F4:AB": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "A0:20:A6": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "A4:CF:12": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "A4:FB:CF": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "B4:E6:2D": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "BC:DD:C2": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "C4:5B:44": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "D8:EC:6B": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "E0:15:8D": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "EC:FA:BC": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "F4:5F:B4": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "F4:CF:A2": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "FC:D6:BD": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "00:02:2D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:02:6B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:02:FD": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:03:9B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:04:27": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:05:57": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:05:86": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:06:2D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:06:7C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:06:CA": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:07:0E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:08:20": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:08:27": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:09:1B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:09:5B": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:0A:2B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0A:84": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0A:B7": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0A:F4": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:40": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:43": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:86": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:8E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:B0": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:B3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:BB": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:D9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:DF": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:E6": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0B:F9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0C:29": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0C:CE": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0D:28": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0D:30": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0D:56": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0D:60": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0D:69": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:0D:76": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0D:B6": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:07": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:38": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:39": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:77": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:83": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:84": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:AE": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0E:BD": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:24": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:27": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:35": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:37": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:8B": {
+    "vendor": "Cisco/Linksys",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:94": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:99": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:A3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:B3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:B5": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:0F:B8": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:0F:EA": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:18": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:1A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:1C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:1D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:1F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:29": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:2B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:2F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:4B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:60": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:63": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:7B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:7D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:81": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:83": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:9B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:A9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:AB": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:B3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:10:B5": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:11:02": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:11:0C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:11:24": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:11:42": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:11:52": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:11:5C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:11:91": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:12:00": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:12:0A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:12:0B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:12:2A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:12:44": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:01": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:02": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:10": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:20": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:30": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:40": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:58": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:70": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:77": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:80": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:84": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:87": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:8A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:13:8B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:0C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:10": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:1E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:1F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:22": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:23": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:24": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:2A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:2D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:2E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:30": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:31": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:32": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:33": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:34": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:35": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:36": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:37": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:38": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:39": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:3A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:3B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:3C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:3D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:3E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:3F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:40": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:41": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:49": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:51": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:5E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:61": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:6C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:6D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:6E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:6F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:70": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:71": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:72": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:73": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:74": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:75": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:76": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:77": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:78": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:79": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:7A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:7B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:7C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:7D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:7E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:7F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:81": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:82": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:83": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:84": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:85": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:86": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:87": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:88": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:89": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:8A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:8B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:8C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:8D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:8E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:8F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:90": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:91": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:92": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:93": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:94": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:95": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:96": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:97": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:98": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:9A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:9B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:9C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:9D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:9E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A0": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A1": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A2": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A4": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A5": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A6": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A7": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A8": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:A9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:AA": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:AB": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:AC": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:AD": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:AE": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:AF": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B0": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B1": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B2": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B4": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B5": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B6": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B7": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B8": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:B9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:BA": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:BB": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:BC": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:BD": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:BE": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:BF": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C0": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C1": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C2": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C4": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C5": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C6": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C7": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C8": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:C9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:CA": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:CB": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:CC": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:CD": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:CE": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:CF": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:E3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:14:E4": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:15:5D": {
+    "vendor": "Cisco/Linksys",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:16:2C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:16:47": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:18:02": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:18:13": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:18:14": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:18:3D": {
+    "vendor": "Cisco/Linksys",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:18:F8": {
+    "vendor": "Cisco/Linksys",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1B:55": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1B:75": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1B:78": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1C:0F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1C:58": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1D:70": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1D:71": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1E:13": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1E:4C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1E:4F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1E:7A": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:1E:F7": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:21:1B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:21:29": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:21:2F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:21:53": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:21:55": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:21:56": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:21:57": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:22:67": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:23:33": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:23:34": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:23:39": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:23:90": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:23:93": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:24:13": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:25:84": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:25:88": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:25:96": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:25:E3": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:26:52": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:40:A7": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:90:4C": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:90:96": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:A0:79": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:A0:C9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:D0:06": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:D0:2E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:00:0F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:00:20": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:00:28": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:18:99": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:22:59": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:35:71": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:44:04": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:63:60": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "08:F8:E0": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "3C:E1:A8": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "3C:DF:A9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "40:40:A9": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "44:D7:5B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "44:E5:17": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "48:88:CA": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "48:B9:48": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "50:A6:7D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "50:06:04": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "50:67:78": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "50:90:4B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "54:04:A6": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "58:55:CA": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "58:6D:8F": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "5C:2E:3E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "5C:56:E0": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "5C:F9:38": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "5C:FB:EE": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "5CEC:7B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "60:36:99": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "60:54:5E": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "60:69:44": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "64:D4:DA": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "68:72:51": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "70:CA:9B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "70:B3:D5": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "74:9A:3D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "74:C6:BF": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "74:E5:0B": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "78:92:60": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "80:2A:35": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "80:3A:BC": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "80:48:AD": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "84:2A:94": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "84:4A:ED": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "84:C9:65": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "88:10:0F": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "88:10:8B": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "88:10:A4": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "88:13:90": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "8C:04:3E": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "8C:10:1F": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "90:AA:36": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "90:B4:12": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "94:10:3E": {
+    "vendor": "Cisco/Aironet",
+    "type": "router",
+    "family": "cisco"
+  },
+  "98:5A:EB": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "A4:56:02": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "A4:57:63": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "A4:93:BC": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "AC:9A:22": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "AC:B5:7D": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "AC:F1:DF": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "00:27:19": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "20:E8:82": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "50:C7:BF": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "64:70:02": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "B4:F5:8E": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "C0:51:5C": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "C8:D3:A3": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "D4:C9:EF": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "F4:D4:D0": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "F4:F2:6D": {
+    "vendor": "TP-Link",
+    "type": "router",
+    "family": "tplink"
+  },
+  "00:0B:38": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:1B:2F": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:1D:19": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:1D:37": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:1E:42": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:22:3F": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "00:24:B2": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "04:1F:64": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "08:02:8E": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "08:3E:8E": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "0C:19:F8": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "10:DA:4A": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "14:6E:96": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "1C:FA:68": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "20:4E:7F": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "24:AB:81": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "24:99:8C": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "28:80:88": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "2C:30:33": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "30:46:9A": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "34:3D:3C": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "38:B1:DB": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "44:37:E6": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "4C:30:BA": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "50:4A:6F": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "68:86:74": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "74:44:01": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "90:84:0B": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "9C:3E:36": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "A0:40:A0": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "AC:DE:48": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "B8:27:EB": {
+    "vendor": "Netgear / RPi Foundation",
+    "type": "router",
+    "family": "netgear"
+  },
+  "D8:AD:B0": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "DC:9F:DB": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "E4:2D:02": {
+    "vendor": "Netgear",
+    "type": "router",
+    "family": "netgear"
+  },
+  "24:0A:64": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "24:72:89": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "44:D8:84": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "48:ED:32": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "68:72:5B": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "74:90:07": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "78:45:58": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "94:FB:A7": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "B4:FB:BE": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "F4:92:BF": {
+    "vendor": "Ubiquiti",
+    "type": "router",
+    "family": "ubiquiti"
+  },
+  "00:05:5D": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:0D:88": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:11:95": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:15:E9": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:17:9A": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:19:5B": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:1B:11": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:1E:58": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:21:91": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:22:B0": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:23:AE": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:24:01": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:25:9A": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:26:5A": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "08:55:31": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "30:7B:AC": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "34:08:94": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "38:84:46": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "3C:1E:04": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "70:53:45": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "74:D0:2B": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "8C:16:45": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "90:94:E4": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "B0:B3:CC": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "B4:A9:FC": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "B8:E4:7A": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "C0:A6:00": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "D0:21:25": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "D8:FE:83": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "E0:46:9A": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "E4:9A:79": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "EC:22:80": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "F0:79:60": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "FC:7C:15": {
+    "vendor": "D-Link",
+    "type": "router",
+    "family": "dlink"
+  },
+  "00:02:2B": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:0C:6E": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:13:CF": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:15:F2": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:1B:FC": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:1E:8C": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:1F:D1": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:22:15": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:23:5A": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:24:8C": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:26:18": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "00:E0:18": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "30:4A:9A": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "34:97:56": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "34:C4:7A": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "4C:EE:63": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "50:4F:5F": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "50:67:F0": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "54:AB:3C": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "58:11:2F": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "58:17:0C": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "5C:9D:AE": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "60:45:BD": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "60:A4:4C": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "60:EB:2A": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "60:F8:1D": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "64:09:80": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "64:11:FD": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "64:1C:67": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "64:20:0C": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "64:51:06": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "68:3E:1E": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "6C:19:8F": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "70:3A:CB": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "70:4D:7B": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "70:8A:20": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "70:F1:A1": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "78:24:AE": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "80:26:89": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "84:16:F9": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "88:53:2E": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "88:D2:55": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "90:E6:BA": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "A0:1D:48": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "AC:22:0B": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "B0:4E:26": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "B4:15:EF": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "BC:51:FE": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "C0:18:85": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "D0:17:C2": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "D4:61:EA": {
+    "vendor": "AsusTek",
+    "type": "router",
+    "family": "asus"
+  },
+  "B8:5D:C3": {
+    "vendor": "Espressif",
+    "type": "iot",
+    "family": "espressif"
+  },
+  "1C:1B:B5": {
+    "vendor": "Intel Corporate",
+    "type": "laptop",
+    "family": "intel"
+  },
+  "8C:83:E1": {
+    "vendor": "Samsung Electronics",
+    "type": "phone",
+    "family": "samsung"
+  },
+  "C0:FD:84": {
+    "vendor": "ZTE Corporation",
+    "type": "phone",
+    "family": "zte"
+  },
+  "30:42:40": {
+    "vendor": "Cisco Systems",
+    "type": "router",
+    "family": "cisco"
+  },
+  "2E:E4:90": {
+    "vendor": "Apple Inc.",
+    "type": "phone",
+    "family": "apple"
+  },
+  "36:D0:68": {
+    "vendor": "Intel Corporate",
+    "type": "laptop",
+    "family": "intel"
+  },
+  "42:33:2B": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "52:75:46": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "4E:2E:95": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "E2:96:A0": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "B6:2B:CE": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "F2:24:61": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "B6:94:00": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "5A:F4:26": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "72:1C:C7": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "1E:C7:73": {
+    "vendor": "Phone (Randomized)",
+    "type": "phone",
+    "family": "random"
+  },
+  "0E:1C:CE": {
+    "vendor": "Unknown (non-random)",
+    "type": "other",
+    "family": null
+  }
+}

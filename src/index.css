@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: #000;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+.mono { font-family: 'JetBrains Mono', monospace; }
+
+.glow-text {
+    text-shadow: 0 0 20px rgba(0, 255, 200, 0.6),
+    0 0 40px rgba(0, 255, 200, 0.3);
+}
+
+.glass {
+    background: rgba(10, 15, 25, 0.6);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(0, 255, 200, 0.15);
+}
+
+.scan-line {
+    background: linear-gradient(
+            180deg,
+            transparent 0%,
+            rgba(0, 255, 200, 0.4) 50%,
+            transparent 100%
+    );
+    height: 2px;
+    animation: scan 3s linear infinite;
+}
+
+@keyframes scan {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(100vh); }
+}
+
+@keyframes radar-sweep {
+    0%   { transform: rotate(0deg);   opacity: 0.8; }
+    100% { transform: rotate(360deg); opacity: 0.8; }
+}
+
+@keyframes pulse-ring {
+    0%   { transform: scale(0.8); opacity: 1; }
+    100% { transform: scale(2.5); opacity: 0; }
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: 0.3; }
+}
+
+.threat-high {
+    animation: blink 0.8s ease-in-out infinite;
+    background: #ff0055;
+    box-shadow: 0 0 20px #ff0055;
+}
+
+.threat-medium {
+    background: #ffaa00;
+    box-shadow: 0 0 15px #ffaa00;
+}
+
+.threat-low {
+    background: #00ff88;
+    box-shadow: 0 0 10px #00ff88;
+}
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #0a0a0a; }
+::-webkit-scrollbar-thumb { background: #00ffc8; border-radius: 4px; }
+
+.grid-bg {
+    background-image:
+            linear-gradient(rgba(0, 255, 200, 0.05) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(0, 255, 200, 0.05) 1px, transparent 1px);
+    background-size: 40px 40px;
+}
+
+.gradient-text {
+    background: linear-gradient(90deg, #00ffc8, #00aaff, #ff00aa);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
